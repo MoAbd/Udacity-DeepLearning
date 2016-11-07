@@ -8,4 +8,5 @@ Libraries to be installed:
 * numpy
 * scipy
 * scikit-learn
+* pillow
 
